@@ -16,7 +16,7 @@
             </tr>
             <tr>
                 <td style="padding: 15px; border: none;">🎥</td>
-                <td style="padding: 15px; border: none;">📎</td>
+                <td style="padding: 15px; border: none;">₿</td>
                 <td style="padding: 15px; border: none;"> 🇧🇷 </td>
             </tr>
         </tbody>
@@ -27,6 +27,8 @@
     <img src="https://s01.flagcounter.com/count2/xX7Y/bg_0D4DFF/txt_FFF8E3/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Contador de Visitantes" width="150">
   </a>
 </p>
+
+
 
 <!---
 Andredevfl/Andredevfl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
