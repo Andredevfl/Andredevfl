@@ -3,7 +3,7 @@
     <table style="border-collapse: separate; border-spacing: 20px; width: 80%; background-color: #000; color: #9ACD32; font-family: 'Arial', sans-serif;">
         <thead>
             <tr>
-                <th style="padding: 15px; border: none;">- 👋 Hi, I’m @Andredevfl</th>
+                <th style="padding: 15px; border: none;">- 👋 Hi, I’m @Andredev</th>
                 <th style="padding: 15px; border: none;"🎧 >Web-dev</th>
                 <th style="padding: 15px; border: none;">🌐 NOC</th>
             </tr>
