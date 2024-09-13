@@ -4,7 +4,7 @@
         <thead>
             <tr>
                 <th style="padding: 15px; border: none;">👋 Hi, I’m @Andredev</th>
-                <th style="padding: 15px; border: none;"🎧 >Web-dev</th>
+                <th style="padding: 15px; border: none;">🎧 Web-dev</th>
                 <th style="padding: 15px; border: none;">🌐 NOC</th>
             </tr>
         </thead>
